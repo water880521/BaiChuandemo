@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-common-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-common-2.1.6.589.jar-2.1.6.jar" sourcepath="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-common-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-common-2.1.6.589.jar-2.1.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-dao-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-dao-2.1.6.589.jar-2.1.6.jar" sourcepath="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-dao-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-dao-2.1.6.589.jar-2.1.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-sqlmap-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-sqlmap-2.1.6.589.jar-2.1.6.jar" sourcepath="M2_REPO/com/alibaba/external/sourceforge.ibatis__ibatis-sqlmap-2.1.6.589.jar/2.1.6/sourceforge.ibatis__ibatis-sqlmap-2.1.6.589.jar-2.1.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/apache-log4j-extras/1.2.17/apache-log4j-extras-1.2.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar" sourcepath="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/mysql/mysql-connector-java/3.1.12/mysql-connector-java-3.1.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.context/3.1.1.RELEASE/org.springframework.context-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.context/3.1.1.RELEASE/org.springframework.context-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.asm/3.1.1.RELEASE/org.springframework.asm-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.asm/3.1.1.RELEASE/org.springframework.asm-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.aop/3.1.1.RELEASE/org.springframework.aop-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.aop/3.1.1.RELEASE/org.springframework.aop-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" sourcepath="M2_REPO/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.beans/3.1.1.RELEASE/org.springframework.beans-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.beans/3.1.1.RELEASE/org.springframework.beans-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.core/3.1.1.RELEASE/org.springframework.core-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.core/3.1.1.RELEASE/org.springframework.core-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.expression/3.1.1.RELEASE/org.springframework.expression-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.expression/3.1.1.RELEASE/org.springframework.expression-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.orm/3.1.1.RELEASE/org.springframework.orm-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.orm/3.1.1.RELEASE/org.springframework.orm-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.jdbc/3.1.1.RELEASE/org.springframework.jdbc-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.jdbc/3.1.1.RELEASE/org.springframework.jdbc-3.1.1.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/org.springframework.transaction/3.1.1.RELEASE/org.springframework.transaction-3.1.1.RELEASE.jar" sourcepath="M2_REPO/org/springframework/org.springframework.transaction/3.1.1.RELEASE/org.springframework.transaction-3.1.1.RELEASE-sources.jar"/>
+</classpath>
